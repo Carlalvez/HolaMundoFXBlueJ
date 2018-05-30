@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HolaMundo
+comment0.text=\r\n\ Mi\ primer\ Hola\ mundo\ en\ JavaFX\r\n\r\n\ @author\ (Carlos\ Alvarez)\r\n\ @version\ (1.0)\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=event
+comment2.target=void\ buttonClick(javafx.event.ActionEvent)
+comment2.text=\r\n\ \r\n\ Este\ m\u00E9todo\ incrementar\u00E1\ nuestro\ contador\ en\ +1\ por\ cada\ click\ que\ hagamos\ encima\ del\ boton.\r\n
+numComments=3
